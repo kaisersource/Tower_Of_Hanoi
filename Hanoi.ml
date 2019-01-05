@@ -1,5 +1,5 @@
-(*Dato un numero n, stampare la sequenza di mosse che occorre fare per spostare n dischi dal piolo chiamato "A" al piolo chi$
-
+(*Dato un numero n, stampare la sequenza di mosse che occorre fare per spostare n dischi dal piolo chiamato "A" al piolo chiamato "B"
+utilizzando un piolo d'appoggio "C"*)
 (* move: string*string->string *)
 
 let move (x,y) =
